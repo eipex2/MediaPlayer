@@ -1,2 +1,2 @@
 # MediaPlayer
-Media player made with swt
+Media player made with swt.
